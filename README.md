@@ -14,3 +14,11 @@ This repository demonstrates my experience in creating and configuring virtual m
 5. Used snapshots to save system states for backup and recovery.
 
 ## Screenshots:
+# Some of the hardware settings configured for this specific VM
+![Hardware Settings](https://github.com/zaycharlez3/VMware-Fusion-Lab/blob/main/hardware%20settings.png?raw=true)
+# Network Adapter Settings used in this VM.
+![Network Adapter Settings ](https://github.com/zaycharlez3/VMware-Fusion-Lab/blob/main/network%20adapter%20settings.png?raw=true)
+# Machine running perfectly, with Windows loaded.
+![Virtual Machine running perfectly.](https://github.com/zaycharlez3/VMware-Fusion-Lab/blob/main/running%20machine%20with%20windows%20loaded.png?raw=true)
+# Updated Snapshot 
+![Virtual Machine snapshot](https://github.com/zaycharlez3/VMware-Fusion-Lab/blob/main/snapshot.png?raw=true)
